@@ -1,0 +1,23 @@
+.img{
+    width: 450px;
+    height: 470px;
+    border-radius: 20px;
+}
+.info{
+    display: flex;
+    column-gap: 70px;
+}
+.info__text{
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+    row-gap: 15px;
+}
+.instr-block{
+    padding-top: 30px;
+    font-size: 18px;
+}
+
+tr{
+    border-bottom: 1px solid rgba(0,0,0,0.12)!important;
+}
